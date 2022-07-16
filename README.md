@@ -10,6 +10,6 @@ THE ONLY MODULE USED IN THIS PROGRAM IS REQUESTS<br>
 ----------------------------------------------------------------------------------
 ### Developed by
 
-Developer/Author: [chakradhar reddy](https://www.chakradharreddy.me)
+Developer/Author: [chakradhar reddy](https://cdrmukkamalla2.vercel.app/)
 --------------------------------------------------------------
 ## [textbeltAPI](https://textbelt.com/)
